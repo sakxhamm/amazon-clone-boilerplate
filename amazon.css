@@ -102,5 +102,20 @@ nav ul li{
 }
 .right-nav{
     display: flex;
-    
+    align-items: center;
+    justify-content: space-between;
+    font-size: 13px;
+    color: white;
+    width: 45vh;
+
 }
+.right-nav #top-arrow{
+    width: 10px;
+
+}
+.heading{
+    font-size: 20px;
+    margin-bottom: 0;
+
+}
+.prime
